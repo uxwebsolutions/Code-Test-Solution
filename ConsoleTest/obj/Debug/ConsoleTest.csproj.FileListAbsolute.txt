@@ -1,0 +1,9 @@
+C:\Development\Test\CodeSolution\ConsoleTest\bin\Debug\ConsoleTest.exe.config
+C:\Development\Test\CodeSolution\ConsoleTest\bin\Debug\ConsoleTest.exe
+C:\Development\Test\CodeSolution\ConsoleTest\bin\Debug\ConsoleTest.pdb
+C:\Development\Test\CodeSolution\ConsoleTest\bin\Debug\APITest.dll
+C:\Development\Test\CodeSolution\ConsoleTest\bin\Debug\APITest.pdb
+C:\Development\Test\CodeSolution\ConsoleTest\obj\Debug\ConsoleTest.csprojResolveAssemblyReference.cache
+C:\Development\Test\CodeSolution\ConsoleTest\obj\Debug\ConsoleTest.csproj.CoreCompileInputs.cache
+C:\Development\Test\CodeSolution\ConsoleTest\obj\Debug\ConsoleTest.exe
+C:\Development\Test\CodeSolution\ConsoleTest\obj\Debug\ConsoleTest.pdb

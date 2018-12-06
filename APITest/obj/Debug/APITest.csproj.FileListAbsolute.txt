@@ -1,0 +1,6 @@
+C:\Development\Test\CodeSolution\APITest\bin\Debug\APITest.dll
+C:\Development\Test\CodeSolution\APITest\bin\Debug\APITest.pdb
+C:\Development\Test\CodeSolution\APITest\obj\Debug\APITest.csproj.CoreCompileInputs.cache
+C:\Development\Test\CodeSolution\APITest\obj\Debug\APITest.dll
+C:\Development\Test\CodeSolution\APITest\obj\Debug\APITest.pdb
+C:\Development\Test\CodeSolution\APITest\obj\Debug\APITest.csprojResolveAssemblyReference.cache

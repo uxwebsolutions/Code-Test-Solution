@@ -1,0 +1,23 @@
+﻿
+@model MVC.Models.UserModel
+@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron">
+    <h1>TEST MVC</h1>
+    <p class="lead">This is a Test for MVC</p>
+    <p><a href="https://asp.net" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>
+</div>
+
+<div class="row">
+    <div class="col-md-4">
+       
+         @if (Model.user != null)
+         {
+            <h2>Hello @Model.user.Name</h2>
+            <h2>@Model.user.UserRole.Name</h2>
+
+         }
+    </div>
+</div>
